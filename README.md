@@ -1,2 +1,5 @@
 # wave-pipe
-Lightweight Scala utilities and helpers (wave-pipe)
+
+Lightweight `Scala` utilities maintained by @ranggahaddad51.
+
+- Focus: Automating infrastructure so deployments feel uneventful.
